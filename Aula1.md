@@ -14,12 +14,12 @@
   
   
 ## Fases de Método estatistico
-  a. Definição do problema: Saber o que se pretende pesquisar
-  b. Planejamento: Determiar o procedimento de investigação
-  c. Coleta de dados: Elementos informativos do fenômeno a ser estudado
-  d. Apuração de dados: Tratamento dos dados, antes da analise, por meio de agrupamento e contagem dos dados
-  e. Apresentação dos dados: Confecço de graficos e tabelas
-  f. Análise e interpretação dos dados: Cálculoo de medidas para descrição do fenômeno
+  1. Definição do problema: Saber o que se pretende pesquisar
+  2. Planejamento: Determiar o procedimento de investigação
+  3. Coleta de dados: Elementos informativos do fenômeno a ser estudado
+  4. Apuração de dados: Tratamento dos dados, antes da analise, por meio de agrupamento e contagem dos dados
+  5. Apresentação dos dados: Confecço de graficos e tabelas
+  6. Análise e interpretação dos dados: Cálculoo de medidas para descrição do fenômeno
 
 - Planejamento da pesquisa
   - Definição do problema e objetivos
